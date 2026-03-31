@@ -25,11 +25,19 @@ The project includes login screens , a home dashboard , course cards , agenda se
 
 ## Files
 
+### Figma Prototype
+
 - https://www.figma.com/proto/uu6KQ0LJCnNQxXdvZfpaiq/StudyX---Student-Dashboard-App?node-id=1-2&t=oKUQfQbLbPUwenOv-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2
-- StudyX - Student Dashboard App.pdf
-- Screenshot 2026-03-29 120702.png
-- Screenshot 2026-03-29 120715.png
-- Screenshot 2026-03-29 120725.png
+
+### PDF
+
+- [https://github.com/LayanAi/Studyx---Student-Dashboard/blob/d69294b375f845fa142f4632343b3cb66a5b404f/StudyX - Student Dashboard App.pdf](https://github.com/LayanAi/Studyx---Student-Dashboard/blob/d69294b375f845fa142f4632343b3cb66a5b404f/StudyX%20-%20Student%20Dashboard%20App.pdf)
+
+### Screenshots
+
+- [https://github.com/LayanAi/Studyx---Student-Dashboard/blob/d69294b375f845fa142f4632343b3cb66a5b404f/Screenshot 2026-03-29 120702.png](https://github.com/LayanAi/Studyx---Student-Dashboard/blob/d69294b375f845fa142f4632343b3cb66a5b404f/Screenshot%202026-03-29%20120702.png)
+- [https://github.com/LayanAi/Studyx---Student-Dashboard/blob/d69294b375f845fa142f4632343b3cb66a5b404f/Screenshot 2026-03-29 120715.png](https://github.com/LayanAi/Studyx---Student-Dashboard/blob/d69294b375f845fa142f4632343b3cb66a5b404f/Screenshot%202026-03-29%20120715.png)
+- [https://github.com/LayanAi/Studyx---Student-Dashboard/blob/d69294b375f845fa142f4632343b3cb66a5b404f/Screenshot 2026-03-29 120725.png](https://github.com/LayanAi/Studyx---Student-Dashboard/blob/d69294b375f845fa142f4632343b3cb66a5b404f/Screenshot%202026-03-29%20120725.png)
 
 ## Purpose
 
